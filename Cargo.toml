@@ -4,7 +4,6 @@ description = "Jam grammar for tree-sitter"
 version = "0.1.0"
 authors = ["Raphael Amorim"]
 license = "MIT"
-readme = "README.md"
 keywords = ["incremental", "parsing", "tree-sitter", "jam"]
 categories = ["parsing", "text-editors"]
 repository = "https://github.com/raphamorim/tree-sitter-jam"
